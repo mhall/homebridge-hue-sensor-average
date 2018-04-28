@@ -1,0 +1,16 @@
+{
+  "name": "homebridge-hue-sensor-average",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for averaging Hue sensors",
+  "author": "Matthew Hall",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=4.0.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "axios": ">=0.21.0"
+  }
+}
